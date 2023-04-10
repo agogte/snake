@@ -8,7 +8,7 @@ const gameBoard = document.getElementById('game-board')
 
 function main(currentTime) {
   if (gameOver) {
-    if (confirm('haha u lose. wanna play again tho?')) {
+    if (confirm('haha u lose🤪. wanna play again tho?🤨')) {
       window.location = '/snake/'
     }
     return
