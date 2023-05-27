@@ -1,3 +1,3 @@
 # Snake
 
-The nostalgic snake game at https://agogte.github.io/snake
+The nostalgic snake game [here.](https://agogte.github.io/snake)
